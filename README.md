@@ -23,3 +23,6 @@
 
 ##Документация на русском языке
 1. [Перевод официальной документации **Redux**](https://github.com/rajdee/redux-in-russian)
+
+##Видеоуроки
+1. [ReactJS Essential - Поршнева Екатерина](https://www.youtube.com/playlist?list=PLvItDmb0sZw8HZwaeolxxRq3UGpWM3LgW)

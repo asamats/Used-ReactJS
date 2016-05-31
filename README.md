@@ -4,6 +4,7 @@
 
 1. [KeystoneJS - CMS](https://github.com/keystonejs/keystone) react+react-router+redux
 2. [Sentry - отчет об ошибках в реальном времени](https://github.com/getsentry/sentry) react+react-router+reflux
+3. [Игрушка?](https://github.com/stipsan/epic)
 
 ##Список простых проектов, использующих react
 

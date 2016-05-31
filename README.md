@@ -23,7 +23,7 @@
 5. [Elemental UI](http://elemental-ui.com/)
 6. [Belle](https://github.com/nikgraf/belle/)
 
-##Книги
+##Книги на русском языке
 1. [Курс по React.js](https://maxfarseer.gitbooks.io/react-course-ru/content/)
 2. [Роутинг в react-приложениях](https://maxfarseer.gitbooks.io/react-router-course-ru/content/)
 3. [Туториал по Redux](https://maxfarseer.gitbooks.io/redux-course-ru/content/)
@@ -31,5 +31,5 @@
 ##Документация на русском языке
 1. [Перевод официальной документации **Redux**](https://github.com/rajdee/redux-in-russian)
 
-##Видеоуроки
+##Видеоуроки на русском языке
 1. [ReactJS Essential - Поршнева Екатерина](https://www.youtube.com/playlist?list=PLvItDmb0sZw8HZwaeolxxRq3UGpWM3LgW)

@@ -6,6 +6,7 @@
 2. [Sentry - отчет об ошибках в реальном времени](https://github.com/getsentry/sentry) react+react-router+reflux
 3. [Игрушка?](https://github.com/stipsan/epic)
 4. [vyaguta](https://github.com/leapfrogtechnology/vyaguta)
+5. [Brainfock](https://github.com/Brainfock/Brainfock)
 
 ##Список простых проектов, использующих react
 

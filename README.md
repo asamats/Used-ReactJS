@@ -16,6 +16,7 @@
 4. [Прогноз рака кожи](https://github.com/Mesoptier/oddspot)
 5. [Типа анализ музыки?](https://github.com/cichaczem/music_analyzer)
 6. [sound-redux](https://github.com/andrewngu/sound-redux)
+7. [Простой пример CRUD приложенияReact Redux](https://github.com/rajaraodv/react-redux-blog)
 
 ##UI для React
 1. [material ui](http://www.material-ui.com/)

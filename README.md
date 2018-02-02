@@ -25,6 +25,7 @@
 4. [React Forms](http://prometheusresearch.github.io/react-forms/)
 5. [Elemental UI](http://elemental-ui.com/)
 6. [Belle](https://github.com/nikgraf/belle/)
+7. [Ant Design of React](https://ant.design/docs/react/introduce)
 
 ##Книги на русском языке
 1. [Курс по React.js](https://maxfarseer.gitbooks.io/react-course-ru/content/)
